@@ -2,7 +2,7 @@ name: eX-code_UMBL
 
  
 
-on: [workflows_dispatch] 
+on: [workflows/hiu.yml] 
 
  
 
