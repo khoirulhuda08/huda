@@ -2,7 +2,7 @@ name: eX-code_UMBL
 
  
 
-on: [workflow_dispatch] 
+on: [workflows_dispatch] 
 
  
 
